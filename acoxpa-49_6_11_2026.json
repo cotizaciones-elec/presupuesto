@@ -1,0 +1,60 @@
+{
+  "cliente": "Acoxpa 49",
+  "productos": [
+    {
+      "producto": "Kit de Videoportero IP PoE estándar con llamada a App Hik-Connect / Apertura con tarjeta MIFARE / Frente de calle IK08 e IP65 / Soporta 2 puertas",
+      "cantidad": 1,
+      "marca": "HIKVISION",
+      "modelo": "DS-KIS604-P(C)",
+      "imagen": "https://hikstore.mx/cdn/shop/files/DSKIS604P_C_-FRENTE-l.webp?v=1748450687&width=416",
+      "fichaTecnica": "https://ftp3.syscom.mx/usuarios/fespinoza/HIKVISION/Dispositivos/Videoporteros/VERSIONES(C)/DS-KIS604-P(C)_Video%20Intercom%20Kit_Datasheet_V1.0.pdf",
+      "precioUnitario": 6239.23,
+      "descuentoPorcentaje": 0,
+      "proveedor": "Hikstore"
+    },
+    {
+      "producto": "Carcasa protectora para frentes de calle DS-KV8X13WME1(B) / DS-KV8X13WME1(C) / montaje superficial",
+      "cantidad": 1,
+      "marca": "HIKVISION",
+      "modelo": "DS-KABV8113-RS",
+      "imagen": "https://hikstore.mx/cdn/shop/files/DSKABV8113RS-AD-1-p.png?v=1712191245&width=533",
+      "fichaTecnica": "",
+      "precioUnitario": 271.7,
+      "descuentoPorcentaje": 0,
+      "proveedor": "Hikstore"
+    },
+    {
+      "producto": "Monitor IP WiFi Touch Screen 7 pulgadas para videoportero IP / PoE estándar / Apertura remota / Llamada entre monitores / Audio de dos vías",
+      "cantidad": 1,
+      "marca": "HIKVISION",
+      "modelo": "DS-KH6320-WTE1",
+      "imagen": "https://hikstore.mx/cdn/shop/files/DSKH6320WTE1-l.png?v=1760402679&width=416",
+      "fichaTecnica": "",
+      "precioUnitario": 2531.63,
+      "descuentoPorcentaje": 0,
+      "proveedor": "Hikstore"
+    },
+    {
+      "producto": "Switch Gigabit PoE+ administrable / 4 puertos 10/100/1000 Mbps PoE af/at / 1 puerto uplink 10/100/1000 Mbps / 45 W",
+      "cantidad": 1,
+      "marca": "HIKVISION",
+      "modelo": "DS-3E1505P-EI/M",
+      "imagen": "https://hikstore.mx/cdn/shop/files/DS3E1505PEI_M-p.png?v=1712292537&width=1445",
+      "fichaTecnica": "",
+      "precioUnitario": 968.58,
+      "descuentoPorcentaje": 0,
+      "proveedor": "Hikstore"
+    },
+    {
+      "producto": "Relay",
+      "cantidad": 1,
+      "marca": "",
+      "modelo": "",
+      "imagen": "",
+      "fichaTecnica": "",
+      "precioUnitario": 0,
+      "descuentoPorcentaje": 0,
+      "proveedor": "Hikstore"
+    }
+  ]
+}
